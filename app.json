@@ -1,0 +1,8 @@
+{
+  "name": "Enquetes",
+  "description": "Enquetes for favorite foods.",
+  "repository": "https://github.com/20190730/node-js-http",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
